@@ -2,7 +2,7 @@
 
 Made with HTML and CSS.
 
-#### Click here 👉 [City-Skyline](http://htmlpreview.github.io/?https://github.com/Elena-Stoyanova/City-Skyline/blob/main/CitySkyline.html)
+Click here: 👉  [City-Skyline](http://htmlpreview.github.io/?https://github.com/Elena-Stoyanova/City-Skyline/blob/main/CitySkyline.html)
 
 ### Instructions
 
