@@ -1,27 +1,18 @@
-# City-Skyline
+# City Skyline
 
-### Run Locally
+Made with HTML and CSS.
 
-Clone the project
+👉 [City-Skyline](http://htmlpreview.github.io/?https://github.com/Elena-Stoyanova/City-Skyline/blob/main/CitySkyline.html)
 
-```bash
-  git clone repository
-```
+### Instructions
 
-Go to the project directory
+- Click the button to switch between day and night.
 
-```bash
-  cd app
-```
+### Run locally
 
-Install dependencies
+Click the button <> Code and press Download ZIP.
 
-```bash
-  npm install
-```
+![alt text](Screenshot.png)
 
-Start the server
-
-```bash
-  npm start
-```
+Then when you save it, double click on HTML file. 
+And that's it! 😊
