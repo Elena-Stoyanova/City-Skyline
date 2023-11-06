@@ -8,7 +8,7 @@ Click here: 👉  [City-Skyline](http://htmlpreview.github.io/?https://github.co
 
 - Click the button to switch between day and night.
 
-### Run locally
+### Run Locally
 
 Click the button <> Code and press Download ZIP.
 
