@@ -10,9 +10,8 @@ Click here: 👉  [City-Skyline](http://htmlpreview.github.io/?https://github.co
 
 ### Run Locally
 
-Click the button <> Code and press Download ZIP.
+Clone the project
 
-![alt text](Screenshot.png)
-
-Then when you save it, double click on HTML file. 
-And that's it! 😊
+```bash
+  git clone https://github.com/Elena-Stoyanova/City-Skyline.git
+```
